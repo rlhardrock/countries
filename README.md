@@ -1,4 +1,4 @@
-# rest-countries-api
+# API VUE
 Sitio que obtiene informacion de todos los países del mundo desde una API para mostrarlos, que cuenta con un infinite scroll y dos temas, uno claro y uno oscuro.
 
 **Este sitio fue hecho con Vue.js usando las siguientes características:**
@@ -16,6 +16,8 @@ Sitio que obtiene informacion de todos los países del mundo desde una API para 
 **https://restcountries.eu/**
 
 **Esto es un proyecto que forma parte de los ejercicios de FrontEndMentor.io**
+
+I rlhardrock declared:
 
 **https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca**
 
