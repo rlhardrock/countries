@@ -11,13 +11,14 @@ Sitio que obtiene informacion de todos los países del mundo desde una API para 
 - Estilos de SCSS
 - Entre otros
 
-**API que utilicé para este proyecto**
+**API Address**
 
 **https://restcountries.eu/**
 
-**Esto es un proyecto que forma parte de los ejercicios de FrontEndMentor.io**
 
 I rlhardrock declared:
+
+**Esto es un proyecto que forma parte de los ejercicios de FrontEndMentor.io**
 
 **https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca**
 
